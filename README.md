@@ -1,4 +1,4 @@
-# -BBQ-Cravings-Staff-Performance-Assessment-Dashboard 
+# BBQ-Cravings-Staff-Performance-Assessment-Dashboard 
 <img width="1866" height="504" alt="Automation BBQ Cravings Staff Performance  2026-10-03 084052" src="https://github.com/user-attachments/assets/31b4164c-2397-4f3d-ae6b-95800eac801d" /> 
 
 # Dataset Overview 
