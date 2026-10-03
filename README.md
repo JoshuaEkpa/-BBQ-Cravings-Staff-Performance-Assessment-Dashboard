@@ -140,22 +140,29 @@ Management can use the dashboard to identify performance patterns, monitor indiv
 Designed and developed the staff performance assessment workflow, automated calculations, assessment reporting structure, and management dashboard. 
 
 
- BBQ Cravings Staff Performance For Automation Sheet VIEW 
+## BBQ Cravings Staff Performance For Automation Sheet VIEW 
  
 <img width="1866" height="504" alt="Automation BBQ Cravings Staff Performance  2026-10-03 084052" src="https://github.com/user-attachments/assets/31b4164c-2397-4f3d-ae6b-95800eac801d" />
 
 <img width="1809" height="517" alt="Screenshot 2026-10-03 112630" src="https://github.com/user-attachments/assets/f660cc90-a9a6-4302-9d6f-f066ae894733" />
 
-BBQ Cravings Staff Performance For Assessment Sheet VIEW
+<img width="1017" height="542" alt="image" src="https://github.com/user-attachments/assets/4ba3dbf1-4bb7-4349-a4fb-d5246a2d52a9" />
+
+
+## BBQ Cravings Staff Performance For Assessment Sheet VIEW
 <img width="1579" height="578" alt="Assessment BBQ Cravings Staff Performance 2026-10-03 085524" src="https://github.com/user-attachments/assets/e8f06db9-2ea3-41a9-ae9e-f1f5e9916613" /> 
 
 <img width="1600" height="568" alt="Screenshot 2026-10-03 112702" src="https://github.com/user-attachments/assets/9f3b6623-459a-4a1f-aa86-287a5076fb9a" /> 
 
+<img width="1017" height="586" alt="image" src="https://github.com/user-attachments/assets/0b67e4f5-2f76-4802-bdcf-11951824169b" />
 
-BBQ Cravings Staff Performance For Dashboard Sheet VIEW
+
+## BBQ Cravings Staff Performance For Dashboard Sheet VIEW
 <img width="1238" height="588" alt="Dashbord BBQ Cravings Staff Performance  2026-10-03 090702" src="https://github.com/user-attachments/assets/927519b7-09ee-48df-b0a4-b40838d453ae" />
 
 <img width="1309" height="581" alt="Screenshot 2026-10-03 112726" src="https://github.com/user-attachments/assets/cf5f3ccb-afdc-4833-b4da-74e1343b262c" />
+
+<img width="1017" height="587" alt="image" src="https://github.com/user-attachments/assets/acf3c789-607b-4000-88dd-57f63b860e9c" />
 
 
 EXPLOIRING THE WORLD OF DATA TO DELIVER IMPACTFUL AND ACTIONABLE INSIGHT
