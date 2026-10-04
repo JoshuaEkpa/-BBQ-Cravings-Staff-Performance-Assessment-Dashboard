@@ -169,11 +169,18 @@ EXPLOIRING THE WORLD OF DATA TO DELIVER IMPACTFUL AND ACTIONABLE INSIGHT
 
 <img width="595" height="417" alt="Screenshot 2025-12-20 193545" src="https://github.com/user-attachments/assets/e4d3a643-1a5b-4aec-88c2-fa6c1eef9e90" />
 
+
+📊 Interactive Excel Workbook 
+
+🔗 https://1drv.ms/x/c/67298dc90e23b3e5/IQBJu-Lig6ioSJeGz33xBkpdASZlj7gLiRSqbQiqAXEBNFM?e=k1j3aL 
+
+
+
 👤 Author Joshua Ekpah Data Analyst 
 | Excel | Power BI | SQL | Business Intelligence 
 📬 Contact: +234 816 778 7222
 📧 Email: joshuaekpa5@gmail.com 
 🔗 LinkedIn: https://www.linkedin.com/in/joshua-ekpa-302223327
-🔗 Wix APP: https://joshuaekpa5.wixsite.com/joshuaekpa
+🔗 Wix Website: https://joshuaekpa5.wixsite.com/joshuaekpa
 
 
