@@ -162,7 +162,15 @@ Designed and developed the staff performance assessment workflow, automated calc
 
 <img width="1309" height="581" alt="Screenshot 2026-10-03 112726" src="https://github.com/user-attachments/assets/cf5f3ccb-afdc-4833-b4da-74e1343b262c" />
 
-<img width="1017" height="587" alt="image" src="https://github.com/user-attachments/assets/acf3c789-607b-4000-88dd-57f63b860e9c" />
+<img width="1017" height="587" alt="image" src="https://github.com/user-attachments/assets/acf3c789-607b-4000-88dd-57f63b860e9c" /> 
+
+## BBQ Cravings Staff Performance For The Combined VIEW 
+<img width="1117" height="630" alt="Screenshot 2026-10-05 223056" src="https://github.com/user-attachments/assets/13dab2e5-6e23-49e8-aa60-c12bec282122" />
+
+
+## BBQ Cravings Staff Performance For The Final Architectural  VIEW
+<img width="1119" height="631" alt="Screenshot 2026-10-05 214140" src="https://github.com/user-attachments/assets/aea72246-774c-4422-9f1a-67eb8c1428e1" />
+
 
 
 EXPLOIRING THE WORLD OF DATA TO DELIVER IMPACTFUL AND ACTIONABLE INSIGHT
